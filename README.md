@@ -4,19 +4,19 @@ Free open public domain beer, brewery, brewpubs data for Washington (WA), United
 
 
 ~~~
-_________________________________
+_______________________________
 - Elysian Brewing Co | Seattle
 
 The Wise ESB
 
 
-_______________________________
+_____________________________
 - Fish Brewing Co. | Olympia
 
 Leavenworth Bakke Hill Black Lager
 
 
-____________________________
+__________________________________
 - Redhook Brewery |  Woodinville
 
 Audible Ale 
