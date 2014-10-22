@@ -4,7 +4,6 @@ Free open public domain beer, brewery, brewpubs data for Washington (WA), United
 
 
 ~~~
-
 _________________________________
 - Elysian Brewing Co | Seattle
 
