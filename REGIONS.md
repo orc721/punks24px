@@ -18,6 +18,16 @@ Washington's 10  largest cities:
 
 ## Alternative Divisions
 
+Seven regions (Washington Beer Commission):
+
+- Islands + Peninsulas
+- North Sound
+- Seattle + King County
+- South Sound
+- South + Central
+- Northeast
+- Southeast 
+
 Eight regions (Wikivoyage):
 
 - Columbia River Plateau
