@@ -11,6 +11,34 @@
 
 ## Martians 12px
 
+### Mint
+
+7+ / 1000 Minted  (as of Jan/7th, 2024)
+
+Find all indexed / confirmed ethscriptions mints in the [mint.csv](mint.csv) tabular dataset e.g.
+
+```
+num, ref
+4040328, 742
+4040730, 881
+4045992, 192
+4104972, 0
+4104979, 16
+4104981, 54
+4104982, 58
+...
+```
+
+---
+
+### Marketplace
+
+  - SOON!
+  
+---
+
+
+
 Find all 1000 reference images (12×12px) in [**/ethscribe**](ethscribe):
 
 ![](ethscribe/martian000.png)
