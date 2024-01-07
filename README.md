@@ -13,15 +13,12 @@
 
 ### Mint
 
-7+ / 1000 Minted  (as of Jan/7th, 2024)
+4+ / 1000 Minted  (as of Jan/7th, 2024)
 
 Find all indexed / confirmed ethscriptions mints in the [mint.csv](mint.csv) tabular dataset e.g.
 
 ```
 num, ref
-4040328, 742
-4040730, 881
-4045992, 192
 4104972, 0
 4104979, 16
 4104981, 54
@@ -58,7 +55,6 @@ Find all 1000 reference images (12×12px) in [**/ethscribe**](ethscribe):
 Find all meta data in the [martians12px.csv](martians12px.csv) tabular dataset e.g.
 
 ```
-id, type, attributes
 id, type, attributes
 0, Alien Lime Female, Blonde Bob / Mole / Earring
 1, Alien Gold, Mohawk

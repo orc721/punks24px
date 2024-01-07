@@ -114,6 +114,27 @@ recs[0,1000].each_with_index do |rec,i|
 end
 
 
+###
+# patch - already inscribed! in punks 12px "classic" series
+# 4040328, 742  => Alien, Bandana   - change bandana to hoodie
+# 4040730, 881  => Alien, Do-rag / Laser Eyes Gold  - change do-rag to hoodie
+# 4045992, 192  => Alien Lime, Mohawk Thin / Nerd Glasses / Clown Nose / Earring
+#   - change alien lime to alien green
+
+
+##
+## quick fix: patch duplicates "by hand"
+patch = parse_data( <<DATA )
+  192, Alien Green, Mohawk Thin / Nerd Glasses / Clown Nose / Earring
+  742, Alien, Hoodie
+  881, Alien, Hoodie / Laser Eyes Gold
+DATA
+
+patch.each do |rec|
+   meta[ rec[0].to_i(10) ] = rec
+end
+
+
 
 headers = ['id', 'type', 'attributes']
 File.open( "./martians12px.csv", "w:utf-8" ) do |f|
