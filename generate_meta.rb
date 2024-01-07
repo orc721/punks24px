@@ -12,22 +12,6 @@ def generate_punk( *values  )
   values = values.select { |value| !value.empty? }
 
   
-
-
-  aliens = ['Alien Lime',  ## double line
-            'Alien Lime',
-            'Alien Lime',
-            'Alien Green',
-            'Alien',
-            'Alien',
-            'Alien Blue',
-            'Alien Purple',
-            'Alien Purple',
-            'Alien Magenta',
-            'Alien Red',
-            'Alien Red',
-           ]
-
    alien1 = ['Alien Purple', 'Alien Red']
    alien2 = ['Alien Lime', 'Alien Lime', 'Alien Lime', 'Alien Green']
    alien3 = ['Alien', 'Alien Blue']
@@ -128,29 +112,6 @@ recs[0,1000].each_with_index do |rec,i|
 
   meta << [i.to_s, type, more_attributes.join( ' / ')]   
 end
-
-
-=begin
-##
-## quick fix: patch duplicates "by hand"
-patch = parse_data( <<DATA )
-  113, Alien Lime, Red Mohawk
-  283, Alien Lime Female, Hot Lipstick / Half Shaved Purple
-  290, Alien Lime Female, Blonde Side
-
-  951, Alien Lime Female, Cowboy Hat
-  956, Alien Red, Clown Hair Blue / Laser Eyes Gold
-  980, Alien Lime Female, Black Lipstick / Peak Spike
-  988, Alien Female, Hot Lipstick / Pigtails Red
-  992, Alien Orange Female, Half Shaved Purple / Spots
-
-DATA
-
-
-patch.each do |rec|
-   meta[ rec[0].to_i(10) ] = rec
-end
-=end
 
 
 
