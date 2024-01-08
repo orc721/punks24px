@@ -5,9 +5,10 @@ require 'pixelart'
 
 recs = read_csv( './mint.csv' )
 
+
 cols = 10
-rows = recs.size / 10
-rows +=1  if recs.size / 10 == 0
+rows = recs.size / cols 
+rows += 1    if recs.size % cols != 0
 punks = ImageComposite.new( cols, rows, height: 12, width: 12 )
 
 recs.each do |rec|

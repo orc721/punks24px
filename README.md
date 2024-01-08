@@ -13,7 +13,7 @@
 
 ### Mint
 
-4+ / 1000 Minted  (as of Jan/7th, 2024)
+15+ / 1000 Minted  (as of Jan/8th, 2024)
 
 Find all indexed / confirmed ethscriptions mints in the [mint.csv](mint.csv) tabular dataset e.g.
 
@@ -23,6 +23,12 @@ num, ref
 4104979, 16
 4104981, 54
 4104982, 58
+4105375, 8
+4105601, 534
+4105608, 998
+4105614, 453
+4105633, 945
+4105634, 896
 ...
 ```
 
