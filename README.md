@@ -11,9 +11,13 @@
 
 ## Martians 12px
 
-### Mint
+### Mint web
 
-15+ / 1000 Minted  (as of Jan/8th, 2024)
+  - <https://0xcompute.github.io/punks12px.vol2>
+
+
+![](i/martians12px-mint.png)
+
 
 Find all indexed / confirmed ethscriptions mints in the [mint.csv](mint.csv) tabular dataset e.g.
 
@@ -90,7 +94,7 @@ Find the composite fam image of all 1000 in a 50×20 grid in [martians12px.png](
 ## Questions? Comments?
 
 
-Join us in the Ethscription discord server. Yes you can.
+Join us in the [0xCompute discord (chat server)](https://discord.gg/3JRnDUap6y). Yes you can.
 Your questions and commentary welcome.
 
 Or post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
