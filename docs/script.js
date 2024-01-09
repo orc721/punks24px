@@ -103,7 +103,7 @@ function addListener(i) {
 }
 
 async function imClicked() {
-    const response = await fetch(`https://api.ethscriptions.com/ethscriptions/exists/${this.id}`);
+    const response = await fetch(`https://api.ethscriptions.com/api/ethscriptions/exists/${this.id}`);
 
     if (!response.ok) {
 
