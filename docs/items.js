@@ -1,4 +1,4 @@
-// items.js generated on 2024-01-09 11:29:36 UTC
+// items.js generated on 2024-01-10 10:46:37 UTC
 
  const items = [
   {
@@ -599,7 +599,7 @@
     "id": "481d32fecfcf9bf5cb4c1ede5d3c3599b4f0685c5b737307f84179884868f965",
     "name": "#99",
     "image": "https://github.com/0xCompute/punks12px.vol2/raw/master/ethscribe/martian099.png",
-    "inscriptionNumber": 1
+    "inscriptionNumber": 2024
   },
   {
     "id": "350493a4f6b16c4672cc2ca6d820f55c6ac4ad642efc105906ddfb59b994df30",
@@ -2795,7 +2795,7 @@
     "id": "ae16c046c4c634ea13b1babf4bdbdb9f597181a51bcb426e84c3098e668ca9f1",
     "name": "#465",
     "image": "https://github.com/0xCompute/punks12px.vol2/raw/master/ethscribe/martian465.png",
-    "inscriptionNumber": 1
+    "inscriptionNumber": 2024
   },
   {
     "id": "ac174524f740d7f16457d6bba18c0625ddd1791b4c067a349bd8b25cb1c69427",
@@ -3767,7 +3767,7 @@
     "id": "1602b36f33160fc546008778fefc0fbd817e182edcf3a45403a4c2228cc2a86b",
     "name": "#627",
     "image": "https://github.com/0xCompute/punks12px.vol2/raw/master/ethscribe/martian627.png",
-    "inscriptionNumber": 1
+    "inscriptionNumber": 2024
   },
   {
     "id": "b19a8b1ce692ab089a957702d080d356d3432ef6eaea04611bc62ae28a83367a",
@@ -5267,7 +5267,7 @@
     "id": "fa00bdb8c0308ba429fd165697cb2946d2bca5ae564fcdaecafb3ec0b1d2ae70",
     "name": "#877",
     "image": "https://github.com/0xCompute/punks12px.vol2/raw/master/ethscribe/martian877.png",
-    "inscriptionNumber": 1
+    "inscriptionNumber": 2024
   },
   {
     "id": "ffecba9cb91b8bed2e484f11a1de7f3d129c21a0d1327a068cc8dd0f608145bb",
@@ -5405,7 +5405,7 @@
     "id": "c75bc85df2e1a6c22c45a87357c0ac3af1182ceee7fd47c3413754d1d3765e81",
     "name": "#900",
     "image": "https://github.com/0xCompute/punks12px.vol2/raw/master/ethscribe/martian900.png",
-    "inscriptionNumber": 1
+    "inscriptionNumber": 2024
   },
   {
     "id": "e3f9a1aee19b3be012d832a16ef33dd10827e1580607f36c4d976c8b3b9f9e7e",
