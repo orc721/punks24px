@@ -1,0 +1,787 @@
+{
+  "name": "martians12px",
+  "description": "punks 12px vol. 2 - alien invasion, the martians - first-is-first",
+  "total_supply": "1000",
+  "logo_image_uri": "esc://ethscriptions/0x4d932144b83521e5856ca830eb911658a7a846edb13965f111c9b8b470e3de75/data",
+  "banner_image_uri": "https://github.com/0xCompute/punks12px.vol2/raw/master/i/martians12px-banner.png",
+  "background_color": "",
+  "twitter_link": "",
+  "website_link": "https://github.com/0xCompute/punks12px.vol2",
+  "discord_link": "https://discord.gg/3JRnDUap6y",
+  "collection_items": [
+    {
+      "ethscription_id": "0x4d932144b83521e5856ca830eb911658a7a846edb13965f111c9b8b470e3de75",
+      "name": "Martian #0",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 0,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Lime Female"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Blonde Bob"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Mole"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x89c893b692a024d376fffc08c8d48c84d62bbd4bfaa1ee55e2d13c27fe4343ad",
+      "name": "Martian #8",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 8,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Red"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Luxurious Beard"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Messy Hair"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x449732336f3012b2fa0cee2eb3556aa6c80168cf15868840164fb3f1b8812f89",
+      "name": "Martian #16",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 16,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Lime"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Stringy Hair"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Laser Eyes Gold"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xb96bc4c064bb21877de26a5f6b05eae3e7765bf679890692df1b6655fd1d997c",
+      "name": "Martian #24",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 24,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Gold"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Mohawk Dark"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xe4006f3617daa169e48f513e41c109a2954c77d3820bec7f7b1d982b2c95a21a",
+      "name": "Martian #27",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 27,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Peak Spike"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xa4cf194f1a8ffb6aa9b9acb8fe001763b62cf71f8e5030fffd0058a77a8aff64",
+      "name": "Martian #32",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 32,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Orange"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "VR"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x1802b64e8bcb10851aff852f111813730c6652315ea765841f481cbbe3bd0069",
+      "name": "Martian #54",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 54,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Purple"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xec21f84fb88fadfcbd7da5a1d824236f61fffb9e7d10865985c7560748f0c661",
+      "name": "Martian #55",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 55,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Eye Patch"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x84c2cb0d3759c8b5261dbd41eb4f0ee3d157e214162e4c7d6397507415f55bc4",
+      "name": "Martian #58",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 58,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Green"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Normal Beard Black"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x0aabeff41243c2e43d1369b74f99bf5c00ff2b51a6ad4354f1f6cbce93e1ef09",
+      "name": "Martian #63",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 63,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Red"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Shaved Head"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Laser Eyes Gold"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xe21b90a359490a22f731477b0267b063a273b4afa2ba2e7abbb22387ecd3c7ef",
+      "name": "Martian #69",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 69,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Lime"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Normal Beard Black"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Fedora"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x073d3718c5b7695ed310a3649bc7a2ada93ee55681af4f89073cae5e5a7645ca",
+      "name": "Martian #84",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 84,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Messy Hair"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Big Shades"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x75ef9516ba5324787572a6365f82e3d6cd173906722b5223a4871f03a21caaf2",
+      "name": "Martian #87",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 87,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Blue"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x138cbec6fe19367a25334ff1ae1499cc91ddb7d0076e1f2c42c06c7a3f36dcca",
+      "name": "Martian #90",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 90,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Lime"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Eye Patch"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x60b02b965130710dec2194adcc5575214395f9bfb5598894e698fca374669b8d",
+      "name": "Martian #99",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 99,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Green"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Cigarette"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x24022b8199c3b2be06bfaf9544fe91fec2977c7e46692c056dc98217befac3f8",
+      "name": "Martian #130",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 130,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Mohawk"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x6e909ec04bbe111b5a840bfa0afcea1bf4c70c18ce23452f4d0872994cf1c5c8",
+      "name": "Martian #420",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 420,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Magenta"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Crazy Hair"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x11afc390ebf31ea1ea49dda18596f2ff2d4f08fa9370f5c1000383d5ebdb09fe",
+      "name": "Martian #453",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 453,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Lime"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Buck Teeth"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Cap"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xbe334b6bfe1b0f92fbd0c6f505e20e744b3defa6ddba7266fa8bbd609b31a147",
+      "name": "Martian #465",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 465,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Pipe"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "3D Glasses"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x120de42473c5a1fe964bf5d6d7af8c469942369b28850315e37ad9d224c71d15",
+      "name": "Martian #534",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 534,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Purple Female"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Pigtails Blonde"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "VR"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xd46b38399caa5f8f104052c0a62d66859e18ddbaf5c25eae45eb46cdaef26da3",
+      "name": "Martian #627",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 627,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Magenta"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xb21b28e45b4ec4c3c6311908a93ff68f1fe96cb25a5404569440c436e3fd778b",
+      "name": "Martian #742",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 742,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x4655ca9b3ecb5b119b244baa4f7c7a088699068ac459b55852ceaa9b61331462",
+      "name": "Martian #827",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 827,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Top Hat"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "VR"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xf94456d5349ae115ec5fffb8349f4f29c2d6ed26cc425ab1191ab7fa981ca98d",
+      "name": "Martian #877",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 877,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Blue"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Luxurious Beard"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xa70aacef6e8baaf565f8f292da6066ddd3a0aba611c67397588f13e3d88807cb",
+      "name": "Martian #896",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 896,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Gold Chain"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Peak Spike"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x158fc3b00d846098d9e2a5b4fc5fffabe9848e6d18d7646bd839975185e2dbe6",
+      "name": "Martian #900",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 900,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Front Beard"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Messy Hair"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Laser Eyes Gold"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xe6c3ebe17b111e5ed0f1735acbe5ed843bd64a048ad8330b3f38eb8771884a95",
+      "name": "Martian #924",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 924,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Luxurious Beard"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "3D Glasses"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x3f419bfa17824e541256acc28c235a7fdf3f1e01df8b4ec85c787b58defcd578",
+      "name": "Martian #945",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 945,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Cowboy Hat"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Big Shades"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Clown Nose"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x538b78458d5109b9c9d30d02d96c2b4b15ab4932dcece05d8c61a59b9d6a8a69",
+      "name": "Martian #998",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 998,
+      "item_attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Red"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Buck Teeth"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Normal Beard"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Stringy Hair"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Horned Rim Glasses"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}
