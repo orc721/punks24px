@@ -1,6 +1,6 @@
 
 
-# Punks 12px, The Ethscribe Edition, Vol. 2 -  Self inscribing, First is first
+# Punks 12px, The Ethscribe Editions, Vol. 2 - Alien Invasion, The Martians (Max. 1000) - Self inscribing, First is first
 
 1000 Martians (Alien Invasion) & More
 
