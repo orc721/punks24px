@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ca68a01ce8fb1005934720e7d79395c3c17d019999478f9dc533091918600975i0",
+    "meta": {
+      "name": "Punk Penny / Cent #1",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Robot Male"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Big Beard"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        },
+        {
+          "trait_type": "style",
+          "value": "pennies / cents"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "id": "0e217d8820fbb257136bf4920f940e7ba209cc3b9ae3dceeb80f090cb189ee68i0",
+    "meta": {
+      "name": "Punk Gold Coin #1",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Robot Male"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Big Beard"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        },
+        {
+          "trait_type": "style",
+          "value": "gold coins"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e238598bd8ab7bf09d782d78d5d44e368b2c1463795cf0590647ed154baa0373i0",
+    "meta": {
+      "name": "Punk Gold Coin #2",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Male 2"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Birthday Hat"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Bubble Gum"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        },
+        {
+          "trait_type": "style",
+          "value": "gold coins"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6ca6b55c58d606ee873d8ffd9a94c3125347d263c3ca1da76b1702767440d052i0",
+    "meta": {
+      "name": "Punk Gold Coin #4",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Demon Male"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Pipe"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        },
+        {
+          "trait_type": "style",
+          "value": "gold coins"
+        }
+      ]
+    }
+  },
+  {
+    "id": "75981193ac8c6b19d8112b28cb33de4161f737dc921e5b98149f6a60a81bebcfi0",
+    "meta": {
+      "name": "Punk Gold Coin #5",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Ape Male Blue"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Cowboy Hat"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Buck Teeth"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        },
+        {
+          "trait_type": "style",
+          "value": "gold coins"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0546e244e584b9317fd3c5ec644cdc8c9d3b320ae6b81370771b5a192a0555dfi0",
+    "meta": {
+      "name": "Punk Gold Coin #12",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Orc Male"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Beanie"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "VR"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Clown Nose"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        },
+        {
+          "trait_type": "style",
+          "value": "gold coins"
+        }
+      ]
+    }
+  },
+  {
+    "id": "79b2ffcbf139587e87db885bc1e3ae26232dd8b47f6e93f54436a3ec5bf9772di0",
+    "meta": {
+      "name": "Punk Gold Coin #15",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Male 4"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Police Cap"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Regular Shades"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        },
+        {
+          "trait_type": "style",
+          "value": "gold coins"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bda4d89b6f2beb5d69c9c73b8c6cedcba154b77268409e5421a78f047210fc9ci0",
+    "meta": {
+      "name": "Punk Gold Coin #23",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Female 2"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Rosy Cheeks"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Tiara"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Smile"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        },
+        {
+          "trait_type": "style",
+          "value": "gold coins"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f0d528760c75b0f0069452561d45ba4b73c4a2de3c1cae0cae31e0f75a67d7fci0",
+    "meta": {
+      "name": "Punk Gold Coin #67",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Alien Male Yellow"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Smile"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Goat"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        },
+        {
+          "trait_type": "style",
+          "value": "gold coins"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1cfd61921120c6ea4297eb43bf1944b6a89556dba77360d2a2e7f3d82d2dc262i0",
+    "meta": {
+      "name": "Punk Gold Coin #72",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Mummy Female"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Dark Hair"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        },
+        {
+          "trait_type": "style",
+          "value": "gold coins"
+        }
+      ]
+    }
+  },
+  {
+    "id": "059310e7b6d047067fa2c606073985a4cc550275d023755a0b6c8a78e19e810ai0",
+    "meta": {
+      "name": "Punk Gold Coin #93",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Orc Male"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Eye Mask"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Goat"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Gold Chain"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        },
+        {
+          "trait_type": "style",
+          "value": "gold coins"
+        }
+      ]
+    }
+  }
+]
