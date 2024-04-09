@@ -12,12 +12,6 @@ For updates, see [**@Punks24px on X »**](https://twitter.com/punks24px)
 
 ## MINTING NOW!
 
-- <https://ordzaar.com/marketplace/collections/neonpunks>
-- <https://ordzaar.com/marketplace/collections/greenbacks>
-- <https://ordzaar.com/marketplace/collections/goldcoins>
-- <https://ordzaar.com/marketplace/collections/pennies>
-
-
 
 ### Neon Punks (Max. 100) - Started April 2024
 
@@ -25,11 +19,16 @@ the o.g. sub1k 100 ordinal punks in a neon light (orange / pink / rgb) pixel art
 
 ![](i/neon.png)
 
+- <https://ordzaar.com/marketplace/collections/neonpunks>
+
+
 ### Greenack Dollars - Punk Edition (max. 100) - Started April 2024
 
 money printer go brrr! the o.g. sub1k 100 ordinal punks in a greenback dollar pixel art edition. is green the new orange? the fam in 1x:
 
 ![](i/greenbacks.png)
+
+- <https://ordzaar.com/marketplace/collections/greenbacks>
 
 
 ### Punk Gold Coins (Max. 100) - Started March 2024
@@ -38,12 +37,16 @@ gold! gold! gold! the o.g. sub1k 100 ordinal punks in a gold coin pixel art edit
 
 ![](i/goldcoins.png)
 
+- <https://ordzaar.com/marketplace/collections/goldcoins>
+
+
 ### Punk Pennies / Cents (Max. 100) - Started March 2024
 
 is copper the new gold? the o.g. sub1k 100 ordinal punks in a penny / cent pixel art edition. the fam in 1x:
 
 ![](i/pennies.png)
 
+- <https://ordzaar.com/marketplace/collections/pennies>
 
 
 

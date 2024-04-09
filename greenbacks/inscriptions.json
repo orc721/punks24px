@@ -1,0 +1,246 @@
+[
+  {
+    "id": "e61d2018499854ef53544b77178dbf4290bfee6e41e6aae9dd95c0b9c40c45dbi0",
+    "meta": {
+      "name": "Greenback Dollar (Punk Ed.) #1",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Robot Male"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Big Beard"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        },
+        {
+          "trait_type": "style",
+          "value": "greenback dollars"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1ab8fd0535d72495e026c791c5295c43e9b153a04690629f33a70fa443f3f57fi0",
+    "meta": {
+      "name": "Greenback Dollar (Punk Ed.) #2",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Male 2"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Birthday Hat"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Bubble Gum"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        },
+        {
+          "trait_type": "style",
+          "value": "greenback dollars"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b5b80ad8ecdc77a9cf24a5e7bb4b7dfa7f2f8c86f810468be038e042e34435e7i0",
+    "meta": {
+      "name": "Greenback Dollar (Punk Ed.) #3",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Female 1"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Flowers"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Frown"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Gold Chain"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        },
+        {
+          "trait_type": "style",
+          "value": "greenback dollars"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f82f8c64fa9864b9a37531b658ac95f6c80719d470e2e260d54ddfb34c4fea20i0",
+    "meta": {
+      "name": "Greenback Dollar (Punk Ed.) #7",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Male 1"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Cap Burger King"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        },
+        {
+          "trait_type": "style",
+          "value": "greenback dollars"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb2f49b48ee8650f3d05e76cbf0a60d5d5ec8a6a09c26b267d307b1f861a6ec0i0",
+    "meta": {
+      "name": "Greenback Dollar (Punk Ed.) #63",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Zombie Female"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Frown"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        },
+        {
+          "trait_type": "style",
+          "value": "greenback dollars"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7253a33a821b9531dcc506edaa5334669eb681469f4386c55bb95f051c40fe88i0",
+    "meta": {
+      "name": "Greenback Dollar (Punk Ed.) #72",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Mummy Female"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Dark Hair"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "1"
+        },
+        {
+          "trait_type": "style",
+          "value": "greenback dollars"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7d10c34b7d258c786ee643399cf7c311c2b6824409053f26b488da2f1376509ci0",
+    "meta": {
+      "name": "Greenback Dollar (Punk Ed.) #82",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Mummy Male"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Cowboy Hat"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Eye Mask"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        },
+        {
+          "trait_type": "style",
+          "value": "greenback dollars"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6969e42aa194218e8760f8060ef8072fcd39465573c331db47bebc1359d7529ei0",
+    "meta": {
+      "name": "Greenback Dollar (Punk Ed.) #99",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Ape Male Gold"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Cap Forward"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Medical Mask"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "3"
+        },
+        {
+          "trait_type": "style",
+          "value": "greenback dollars"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b65d23ef8cbb2fbf72259fdb0039c212a38e95b1a9292ff9f84baa18130c1b03i0",
+    "meta": {
+      "name": "Greenback Dollar (Punk Ed.) #100",
+      "attributes": [
+        {
+          "trait_type": "type",
+          "value": "Demon Male"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Cowboy Hat"
+        },
+        {
+          "trait_type": "attribute",
+          "value": "Buck Teeth"
+        },
+        {
+          "trait_type": "attribute count",
+          "value": "2"
+        },
+        {
+          "trait_type": "style",
+          "value": "greenback dollars"
+        }
+      ]
+    }
+  }
+]
